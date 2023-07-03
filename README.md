@@ -1,5 +1,9 @@
 # ChatGPT Bot
 
+![59shots_so](https://github.com/smallnew666/ChatGPT-Bot/assets/24582880/dc1ffa0b-ca59-4eec-ad96-87e8f9f9fcb4)
+
+![109shots_so](https://github.com/smallnew666/ChatGPT-Bot/assets/24582880/27f379b3-4428-45a8-9810-c924d3ef872d)
+
 这是一个基于 OpenAI GPT-3.5 模型的聊天机器人。它可以通过文本输入进行聊天，也可以生成与图像提示相关的图像。
 
 ## 使用方法
@@ -18,7 +22,7 @@
 3. 安装所需的库 
 pip3 install -r requirements.txt
 
-4.运行程序
+4. 运行程序
 python3 app.py
 
 
